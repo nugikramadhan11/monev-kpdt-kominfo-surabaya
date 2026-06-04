@@ -15,7 +15,7 @@ class UserSeeder extends Seeder
             ['nip' => '199001012018041001'],
             [
                 'name' => 'Luffy',
-                'email' => 'luffy@kpdt.local',
+                'email' => '199001012018041001',
                 'password' => Hash::make('luffy123'),
             ]
         );
@@ -35,7 +35,7 @@ class UserSeeder extends Seeder
                 ['nip' => $data['nip']],
                 [
                     'name' => $data['name'],
-                    'email' => strtolower($data['name']) . '@kpdt.local',
+                    'email' => $data['nip'],
                     'wilayah_id' => $data['wilayah_id'],
                     'password' => Hash::make($data['password']),
                 ]
@@ -57,7 +57,7 @@ class UserSeeder extends Seeder
                 ['nip' => $data['nip']],
                 [
                     'name' => $data['name'],
-                    'email' => strtolower($data['name']) . '@kpdt.local',
+                    'email' => $data['nip'],
                     'wilayah_id' => $data['wilayah_id'],
                     'opd_id' => $data['opd_id'],
                     'password' => Hash::make($data['password']),
