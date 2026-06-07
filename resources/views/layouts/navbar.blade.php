@@ -32,7 +32,7 @@
                 </div>
                 <div>
                     <h1 class="text-base sm:text-lg font-bold leading-tight">KPDT</h1>
-                    <p class="text-xs text-blue-100 font-light">Kota Surabaya • Monitoring</p>
+                    <p class="text-xs text-blue-100 font-light">Kampung Pancasila Digital Tracking</p>
                 </div>
             </div>
 

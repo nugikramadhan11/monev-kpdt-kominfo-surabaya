@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/png" href="{{ asset('images/logo/logo-surabaya.png') }}">
-    <title>Login - KPDT Kota Surabaya</title>
+    <title>Login - Kampung Pancasila Digital Tracking</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
@@ -133,7 +133,7 @@
                 </div>
                 <div>
                     <h1 class="text-base sm:text-lg font-bold">KPDT</h1>
-                    <p class="text-xs text-blue-100 font-light">Kota Surabaya • Monitoring</p>
+                    <p class="text-xs text-blue-100 font-light">Kampung Pancasila Digital Tracking</p>
                 </div>
             </div>
         </div>
@@ -149,7 +149,7 @@
             <div class="relative z-10">
                 <div class="mb-8 animate-slide-up">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-3 leading-tight">Selamat Datang</h1>
-                    <p class="text-blue-100 text-base font-light">Sistem Monitoring Kampung Pancasila Digital Tracking Kota Surabaya</p>
+                    <p class="text-blue-100 text-base font-light">Sistem Monitoring & Evaluasi Branding Wilayah ASN Pemkot Surabaya</p>
                 </div>
 
                 <!-- Role Information -->
@@ -160,7 +160,7 @@
                             <span class="text-3xl group-hover:scale-110 transition-transform duration-300 flex-shrink-0">👤</span>
                             <div class="flex-1">
                                 <h3 class="font-bold text-base text-white">ASN</h3>
-                                <p class="text-blue-100 text-xs leading-snug">Submit URL branding, verifikasi posting, tracking progress dan monitor skor.</p>
+                                <p class="text-blue-100 text-xs leading-snug">Submit URL branding, verifikasi posting, tracking progress dan monitor skor evaluasi.</p>
                             </div>
                         </div>
                     </div>
@@ -171,7 +171,7 @@
                             <span class="text-3xl group-hover:scale-110 transition-transform duration-300 flex-shrink-0">📊</span>
                             <div class="flex-1">
                                 <h3 class="font-bold text-base text-white">Pimpinan</h3>
-                                <p class="text-blue-100 text-xs leading-snug">Monitoring lengkap, analisis per wilayah, evaluasi target ASN dan notifikasi.</p>
+                                <p class="text-blue-100 text-xs leading-snug">Monitoring lengkap, analisis branding per wilayah, evaluasi target ASN dan notifikasi.</p>
                             </div>
                         </div>
                     </div>
@@ -182,7 +182,7 @@
                             <span class="text-3xl group-hover:scale-110 transition-transform duration-300 flex-shrink-0">⚙️</span>
                             <div class="flex-1">
                                 <h3 class="font-bold text-base text-white">Admin</h3>
-                                <p class="text-blue-100 text-xs leading-snug">Master data OPD, wilayah, mapping ASN dan kontrol penuh sistem.</p>
+                                <p class="text-blue-100 text-xs leading-snug">Master data OPD, wilayah, mapping ASN, pilar branding dan kontrol penuh sistem.</p>
                             </div>
                         </div>
                     </div>
@@ -202,11 +202,11 @@
                             </div>
                             <div>
                                 <h1 class="text-xs font-bold">KPDT</h1>
-                                <p class="text-xs text-blue-100 font-light">Kota Surabaya</p>
+                                <p class="text-xs text-blue-100 font-light">Kampung Pancasila</p>
                             </div>
                         </div>
                         <h2 class="text-xl sm:text-2xl font-bold mb-1">Selamat Datang</h2>
-                        <p class="text-xs text-blue-100 font-light">Sistem Monitoring Kinerja Dinas Teknis</p>
+                        <p class="text-xs text-blue-100 font-light">Kampung Pancasila Digital Tracking</p>
                     </div>
                 </div>
 
@@ -217,27 +217,27 @@
                         <div class="role-card-mobile group">
                             <h3>
                                 <span class="emoji group-hover:scale-110 transition-transform">👤</span>
-                                <span>Aparatur Sipil Negara</span>
+                                <span>ASN</span>
                             </h3>
-                            <p>Submit URL branding, verifikasi posting, tracking progress dan monitor skor.</p>
+                            <p>Submit URL branding, verifikasi posting, tracking progress dan monitor skor evaluasi.</p>
                         </div>
 
                         <!-- Pimpinan Mobile -->
                         <div class="role-card-mobile group">
                             <h3>
                                 <span class="emoji group-hover:scale-110 transition-transform">📊</span>
-                                <span>Pimpinan Dinas Teknis</span>
+                                <span>Pimpinan</span>
                             </h3>
-                            <p>Monitoring lengkap, analisis per wilayah, evaluasi target ASN dan notifikasi.</p>
+                            <p>Monitoring lengkap, analisis branding per wilayah, evaluasi target ASN dan notifikasi.</p>
                         </div>
 
                         <!-- Admin Mobile -->
                         <div class="role-card-mobile group">
                             <h3>
                                 <span class="emoji group-hover:scale-110 transition-transform">⚙️</span>
-                                <span>Administrator Sistem</span>
+                                <span>Admin</span>
                             </h3>
-                            <p>Master data OPD, wilayah, mapping ASN dan kontrol penuh sistem.</p>
+                            <p>Master data OPD, wilayah, mapping ASN, pilar branding dan kontrol penuh sistem.</p>
                         </div>
                     </div>
                 </div>
